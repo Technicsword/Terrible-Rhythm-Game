@@ -12,5 +12,7 @@ We learned that we cannot make a good unity game 🧔. We also learned basic phy
 
 The Notes bounce back into the chart after being clicked once.
 
+Use ZXNM for inputs. Fullscreen and click in to be able to even play it 😭.
+
 Reference:
 http://drawinspire.com/en/cells/nature/cells_nature68

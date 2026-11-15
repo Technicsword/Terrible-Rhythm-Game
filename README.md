@@ -2,7 +2,7 @@
 
 ### What we made
 
-this is a terrible rhythm game which we attempted to make. This is so bad 😭
+this is a terrible rhythm game which we attempted to make. This is so bad 😭 We spent 2 hrs trying to get unity live collaboration to work, it never did. 😭 So work split was actually cursed
 
 ### What we learned
 
